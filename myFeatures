@@ -12,4 +12,15 @@
         "population": 873965
       }
     }
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.509865, -0.118092]
+      },
+      "properties": {
+        "name": "London",
+        "population": 9748000
+      }
+    }
 };
