@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+   "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:2913"
+    }
+  },
+"features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "name": "San Francisco",
+        "population": 873965
+      }
+    }
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.509865, -0.118092]
+      },
+      "properties": {
+        "name": "London",
+        "population": 9748000
+      }
+    }
+};
