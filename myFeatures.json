@@ -22,7 +22,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.509865, -0.118092]
+        "coordinates": [-0.118092, 51.509865]
       },
       "properties": {
         "name": "London",
